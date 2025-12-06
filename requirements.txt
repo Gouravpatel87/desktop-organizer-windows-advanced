@@ -1,0 +1,3 @@
+# core - no external deps required
+# optional: watchdog for watch mode
+watchdog>=2.1.0
